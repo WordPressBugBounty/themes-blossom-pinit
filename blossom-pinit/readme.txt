@@ -1,10 +1,10 @@
 === Blossom Pinit ===
 
 Contributors: blossomthemes
-Requires at least: WordPress 4.7
-Requires PHP: 7.3
-Tested up to: 6.6
-Stable tag: 1.0.6
+Requires at least: 6.2
+Requires PHP: 7.4
+Tested up to: 6.9
+Stable tag: 1.0.7
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -48,6 +48,9 @@ License: CC0, https://stocksnap.io/license , https://pxhere.com/en/license
 All other images including icon image and images used in customizer settings are self created and are under the GPL.
 
 == Changelog ==
+
+    1.0.7 - April 06, 2026
+        * Fix: Updated PHP to 7.4
 
     1.0.6 - July 29, 2024
         * Added: New theme support for gutenberg block editor.
